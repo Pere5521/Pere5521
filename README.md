@@ -2,7 +2,7 @@
 <h3 align="center">Estudiant de DAM</h3>
 
 <p align="center">
-  <img src="img/stellartigershark.jpg" alt="Imatge de Perfil" width="150px">
+  <img src="stellartigershark.jpg" alt="Imatge de Perfil" width="150px">
 </p>
 
 ## Sobre mi
